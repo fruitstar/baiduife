@@ -1,0 +1,226 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta name="generator"
+    content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
+    <meta charset="utf-8" />
+    <title>1_2_1</title>
+	<style type="text/css">
+	
+	body{margin:0;background-color:#E6E6FA;font-family:Microsoft yahei;font-size:14px;}
+	.one{background:#696969;padding:10px 0;}
+	.first{width:1000px;margin:0 auto;}
+	img{max-width:100%;}
+	
+	.first.logo{width:200px;}
+	.first{position:relative;}
+	.header{margin:0;padding:0;position:absolute;list-style-position:inside;right:0;top:50%;margin-top:-0.6em;font-size:15px;}
+	.header:after{display:block;clear:both;}
+	.header li{float:left;margin-left:5px;}
+	.header a{color:#fff;text-decoration:none;}
+	.header a:visited{color:#fff;}
+	
+	article{padding:20px;margin-top:20px;margin-left:80px;margin-right:80px;background-color:#fff;box-shadow:2px 2px 2px #aaa;}
+	p{text-indent:2em;line-height:2em;}
+	h1{font-size:20px;}
+	h2{font-size:18px;color:#666666;}
+	.author{font-size:15px;color:#999999;}
+	
+	.second{list-style-type:none;}
+	
+	.picture{list-style-type:none;}
+	.picture li{width:120px;border:1px #ccc solid;box-sizing:border-box;padding:10px ;text-align:center;margin-bottom:10px;}
+	.picture p{font-size:10px;}
+	
+	table{font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;width:100%;border-collapse:collapse;}
+	td,th{font-size:14px;border:1px solid #CCCCCC;padding:3px 7px 2px 7px;}
+	th{font-size:15px;text-align:left;padding-top:5px;padding-bottom:4px;background-color:#333333;color:#fff;}
+	tr.alt{color:#000000;background-color:#999999;}
+	
+	aside h1{border-left:3px #ccc solid;line-height:2em;padding-left:10px;margin:0;}
+	aside input,aside textarea{border:1px #999 solid;outline:none;}
+	aside form > div{margin:12px 0;}
+	aside .side label{width:30%;float:left;text-align:right;}
+	aside .bar{margin-left:30%;font-size:14px;color:#666666;}
+	aside button{font-size:16px;background:#4169E1;line-height:3em;border-radius:10px;outline:none;color:#fff;padding:3px 520px 3px;}
+	
+	footer{background:#000000;color:#fff;text-align:center;padding:10px;}
+	</style>
+  </head>
+  <body>
+  <div class="one">
+	<div class="first">
+		<div class="logo"><img src="baidulogo.png"><br></div>
+		<ul class="header">
+			<li><a href="#">导航链接一</a></li>
+			<li><a href="#">导航链接二</a></li>
+			<li><a href="#">导航链接三</a></li>
+			<li><a href="#">导航链接四</a></li>
+		</ul>
+	</div>
+  </div>
+  <article>
+    <h1>文章一级标题</h1>
+    <h2>文章二级标题</h2>
+    <div class="author">文章作者 文章发表时间</div>
+    <p>
+    这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,
+    这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,
+    这是一个很长很长的段落,这里换行了</p>
+    <p>这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,
+    这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,换行了</p>
+    <p>这是一个很长很长的段落,这是一个很长很长的段落,
+    <a href="www.ife.baidu.com">这里有一个链接链接到http://ife.baidu.com</a>
+    这是一个很长很长的段落,这是一个很长很长的段落,
+    <strong>这里有个粗体字</strong>这是一个很长很长的段落,这是一个很长很长的段落,
+    这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落。</p>
+    
+    <p><img src="my.jpg" /></p>
+    
+    <p>这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,
+    这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,
+    这是一个很长很长的段落,这里换行了</p>
+    <p>
+    这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,
+    <strong>这里有个粗体字</strong>这是一个很长很长的段落,这是一个很长很长的段落, 
+    <a href="www.ife.baidu.com"
+    target="_blank">这里有一个链接点击后打开新窗口链接到http://ife.baidu.com</a>这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,
+    这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落。</p>
+    </article>
+	<article>
+	<h1>另一篇文章的一级标题</h1>
+    <h2>文章二级标题</h2>
+    <div class="author">文章作者 文章发表时间</div>
+    <p>
+    这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,
+    这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,
+    这是一个很长很长的段落,这里换行了</p>
+    <p>这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,
+    这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,换行了</p>
+    <p>这是一个很长很长的段落,这是一个很长很长的段落,
+    <a href="www.ife.baidu.com">这里有一个链接链接到http://ife.baidu.com</a>
+    这是一个很长很长的段落,这是一个很长很长的段落,
+    <strong>这里有个粗体字</strong>这是一个很长很长的段落,这是一个很长很长的段落,
+    这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落,这是一个很长很长的段落。</p>
+    <img src="my.jpg" />
+    <ul class="second">
+      <li>列表项目一</li>
+      <li>列表项目二</li>
+      <li>列表项目三</li>
+    </ul>
+	</article>
+	<article>
+    <h1>图片</h1>
+	<ul class="picture">
+		<li>
+			<p>好看的图片</p>
+			<img src="my.jpg" />
+		</li>
+		<li>
+			<p>好看的图片</p>
+			<img src="my.jpg" />
+		</li>
+		<li>
+			<p>好看的图片</p>
+			<img src="my.jpg" />
+		</li>
+		<li>
+			<p>好看的图片</p>
+			<img src="my.jpg" />
+		</li>
+		<li>
+			<p>好看的图片</p>
+			<img src="my.jpg" />
+		</li>
+		<li>
+			<p>好看的图片</p>
+			<img src="my.jpg" />
+		</li>
+		<li>
+			<p>好看的图片</p>
+			<img src="my.jpg" />
+		</li>
+		<li>
+			<p>好看的图片</p>
+			<img src="my.jpg" />
+		</li>
+	</article>
+	<article>
+    <h1>最后一篇文章一级标题</h1>
+	<h2>文章二级标题</h2>
+    <div class="author">文章作者 文章发表时间</div>
+    <ol>
+      <li>排名1</li>
+      <li>排名2</li>
+      <li>排名3</li>
+    </ol>
+    <p>下面是一个表格,给表格加了一个border=&quot;1&quot;好让你看出是一个表格</p>
+    <table>
+      <tbody>
+        <tr>
+          <th>表头</th>
+          <th>表头</th>
+          <th>表头</th>
+        </tr>
+        <tr>
+          <td>表内容单元格</td>
+          <td>表内容单元格</td>
+          <td>操作</td>
+        </tr>
+        <tr>
+          <td>表内容单元格</td>
+          <td>表内容单元格</td>
+          <td>操作</td>
+        </tr>
+        <tr>
+          <td>表内容单元格</td>
+          <td>表内容单元格</td>
+          <td>操作</td>
+        </tr>
+        <tr class="alt">
+          <td>总计</td>
+          <td colspan="2">1000</td>
+        </tr>
+      </tbody>
+    </table>
+	</article>
+	<aside>
+		<article>
+			<h1>这里以后是一个侧栏，这是侧栏的标题</h1>
+			<form action="" method="post">
+			<div class="side"><label for="email">请输入邮箱地址：</label>
+			<input type="email" id="email" placeholder="这是一个文本输入框" /></div>
+			<div class="bar">邮箱地址请按要求格式输入</div>
+			<div class="side"><label>请输入密码：</label> 
+			<input type="password" name="passwd" placeholder="这是一个文本输入框" /></div>
+			<div class="side"><label>请重复输入密码： </label>
+			<input type="password" name="passwd" placeholder="这是一个文本输入框" /></div>
+			<div class="bar">密码请为6-16位英文数字</div>
+			<div class="side"><label>性别：</label> 
+			<input type="radio" value="1" name="sex" checked="checked"/> 男
+			<input type="radio" value="2" name="sex" /> 女 </div>
+			<div class="side"><label>城市：</label> 
+			<select>
+			<option value="北京" selected="selected">北京</option>
+			<option value="天津">天津</option>
+			<option value="上海">上海</option>
+			<option value="深圳">深圳</option>
+			<option value="广州">广州</option>
+			</select> 
+			</div>
+			<div class="side"><label>爱好：</label> 
+			<input type="checkbox" name="checkbox1" value="运动" />运动 
+			<input type="checkbox" name="checkbox2" value="艺术" />艺术 
+			<input type="checkbox" name="checkbox3" value="科学" />科学 
+			</div>
+			<div class="side"><label>个人描述：</label> 
+			<textarea cols="100" rows="7">这是一个多行输入框，输入您的个人描述</textarea> </div>
+			<div class="submit"><button type="submit" ><strong>确认提交</strong></button></div>
+		</form>
+	</article>
+	</aside>
+	<footer>
+    <p>版权所有&copy;</p>
+	</footer>
+  </body>
+</html>
